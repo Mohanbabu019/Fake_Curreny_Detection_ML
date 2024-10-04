@@ -1,0 +1,5 @@
+numpy
+Pandas
+matplotlib
+imageio[all]
+tensorflow
